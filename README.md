@@ -1,4 +1,6 @@
 # hello-world
-lilsix
-More specifically, it's Lil_Six.
-He likes the art of Vaapad.
+
+Hi, my name is Dimitry.
+I use Python. and I'm studying ML.
+I also can write MySQL queries.
+
